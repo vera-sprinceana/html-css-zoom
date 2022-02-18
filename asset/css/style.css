@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    height: calc(100vh - 100px);
+    background-color: aqua;
+}
+.menu{
+    width: 100%;
+    background-color: blueviolet;
+    height: 100px;
+}
